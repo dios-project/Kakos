@@ -18,6 +18,11 @@
 
 5) Lisans şartları Bazı maddeler hariç olmak üzere bütün makine/işletim sistemi için geçerlidir.
 
+6) Eğer yazılımın yazıldığı dil değişirse bu durum lisansı etkilemez
+
+7) Eğer yazılımın yeni bir güncelleme (kaynak kodundaki değişklik olursa) gelirse ve bu güncellemede lisans şartlarına uymazsa. Yazılımın yeni güncellemsi için . (Not: Eğer lisans şartlarına uyan bir versiyonunu kullanıyorsanız geçerli değildir)
+
+
           **Genel Bilgilendirme**
 0) Bu 'yazılım' kakos (Kaynak Kontrol Lisansı) lisansı ile korunmaktadır.
 
@@ -30,6 +35,7 @@ Dağıtma,kullanma, kaynak koduna modifikasyon kişisel kullanım haklarına sah
 Ticari amaçla dağıtma, kaynak kodunu alt lisansla dağıtma.
  A) Ticari amaçla dağıtma
  Bu yazılımın her hangi bir şekilde kopyasını elde eden kişi veya kişiler yazılımın dosyalarını herhangi bir şekilde ücretlendirip satamaz.
+
 
 
 Lisans Dosyasının sonu.

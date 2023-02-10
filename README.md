@@ -1,7 +1,7 @@
 
 ![](images/K.png)
 ## Kakos (Kaynak kontrol lisansı)
-_Özgür Yazılımlar Dostu Hırsızların Düşmanı_ 
+
 
 
 <br>
